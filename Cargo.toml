@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/othello-core",
+    "crates/othello-gtp",
+    "crates/othello-wasm",
+]
+resolver = "2"
