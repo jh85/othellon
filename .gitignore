@@ -1,7 +1,8 @@
 # Rust build output
 target/
 
-# wasm-pack output under crates (root pkg/ is the canonical copy)
+# wasm-pack output (built from source)
+pkg/
 crates/othello-wasm/pkg/
 
 # Runtime database
