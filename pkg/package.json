@@ -4,11 +4,9 @@
   "version": "0.1.0",
   "files": [
     "othello_wasm_bg.wasm",
-    "othello_wasm.js",
-    "othello_wasm.d.ts"
+    "othello_wasm.js"
   ],
   "main": "othello_wasm.js",
-  "types": "othello_wasm.d.ts",
   "sideEffects": [
     "./snippets/*"
   ]
